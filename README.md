@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br>👯 Passionate machine learning practitioner exploring the depths of deep learning.<br>🤝 Dedicated to unraveling the mysteries of neural networks using TensorFlow.<br>🌱 Learning programming languages like Java, C++, Python, along with exploratory data analysis, and predictive modeling.<br>💬 Exploring patterns and trends in data to develop cutting-edge deep learning models.<br>🌐 My Website - MyWebsite
+🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br>👯 Passionate machine learning practitioner exploring the depths of deep learning.<br>🤝 Dedicated to unraveling the mysteries of neural networks using TensorFlow.<br>🌱 Learning programming languages like Java, C++, Python, along with exploratory data analysis, and predictive modeling.<br>💬 Exploring patterns and trends in data to develop cutting-edge deep learning models.<br>🌐
 
 
 ## 🌐 Socials:
